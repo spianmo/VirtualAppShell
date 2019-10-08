@@ -1,0 +1,17 @@
+Executable : G:\adt-bundle-windows-x86_64-20131030\sdk\ndk\20.0.5594570\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=D:\SandVXposed-master\lib\src\main\jni\Android.mk
+NDK_APPLICATION_MK=D:\SandVXposed-master\lib\src\main\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=0
+APP_PLATFORM=android-21
+NDK_OUT=D:/SandVXposed-master/lib/build/intermediates/ndkBuild/release/obj
+NDK_LIBS_OUT=D:\SandVXposed-master\lib\build\intermediates\ndkBuild\release\lib
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
